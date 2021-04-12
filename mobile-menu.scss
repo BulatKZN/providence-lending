@@ -1,0 +1,21 @@
+
+
+.mobile-menu {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-color: #fff;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+}
+
+
+.mobile-menu.active{
+    display: flex; 
+}
+
+.mobile-menu-item{
+    margin-top: 30px;
+}

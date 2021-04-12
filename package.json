@@ -1,0 +1,25 @@
+{
+  "name": "verstka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BulatKZN/providence-lending.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BulatKZN/providence-lending/issues"
+  },
+  "homepage": "https://github.com/BulatKZN/providence-lending#readme",
+  "dependencies": {
+    "swiper": "^6.5.6"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0-beta.2"
+  }
+}
